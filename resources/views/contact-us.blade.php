@@ -150,9 +150,7 @@
 
             </div>
 
-            <div>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14441.076181636467!2d55.26772670078076!3d25.19414780994425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f682f700cf983%3A0xb5cc58b076c0b904!2sDowntown%20Dubai%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sus!4v1696103683822!5m2!1sen!2sus" width="1050" height="559" style="border:0;width:100% !important;border-radius: 25px;    margin-top: 5%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" ></iframe>
-            </div>
+
         </div>
     </section>
 
