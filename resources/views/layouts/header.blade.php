@@ -17,9 +17,9 @@
 
                 <div class="col-lg-3  col-md-3 col-sm-12 ">
                     <ul class="social-header">
-                        <li> <a href="#"><img src="{{asset('/images/png/footerFacebook.svg')}}" alt=""></a></li>
-                        <li> <a href="#"><img src="{{asset('/images/png/footerinstagram.svg')}}" alt=""></a></li>
-                        <li> <a href="#"><img src="{{asset('/images/png/footerLinkedIn.svg')}}" alt=""></a></li>
+                        <li> <a href="#"><img src="{{asset('/images/png/footerFacebook.svg?')}}" alt=""></a></li>
+                        <li> <a href="#"><img src="{{asset('/images/png/footerinstagram.svg?')}}" alt=""></a></li>
+                        <li> <a href="#"><img src="{{asset('/images/png/footerLinkedIn.svg?')}}" alt=""></a></li>
                         <li> <a href="#"><img src="{{asset('/images/svg/FooterTwiter.svg')}}" alt=""></a></li>
 
                     </ul>
@@ -31,7 +31,7 @@
     <nav>
         <div class="container">
         <ul class="menu mt-2" style="padding: 0%">
-            <li class="logo logo-head"><a href="#"><img src="{{asset('/images/svg/Logo-head.svg')}}" alt=""> </a></li>
+            <li class="logo logo-head"><a href="#"><img src="{{asset('/images/svg/Logo-head.svg?')}}" alt=""> </a></li>
             <li class="item  header-font-small @if  (request()->is('/')) active-link @endif"><a href="{{route('welcome')}}">{{__('Home')}}</a></li>
             <li class="item header-font-small @if  (request()->is('honorary')) active-link @endif"><a href="{{route('honorary')}}">{{__('Honorees')}}</a></li>
             <li class="item header-font-small @if  (request()->is('first-gen')) active-link @endif"><a href="{{route('first-gen')}}">{{__('Early pioneers')}}</a></li>
