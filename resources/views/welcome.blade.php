@@ -14,7 +14,7 @@
                             <div class="row">
                                 <div class="col-md-6 mt-5">
 
-                                    <a href="{{route('news/{5}')}}" class="learn-more">{{__('Learn More')}}</a>
+                                    <a href="https://arabwomanfastival.com/news/5" class="learn-more">{{__('Learn More')}}</a>
                                 </div>
                                 <div class="col-md-6">
                                     <img src="/images/svg/large-logo.svg" alt="" class="d-block m-auto" style="width:60%">
