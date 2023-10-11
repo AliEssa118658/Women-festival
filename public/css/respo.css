@@ -55,16 +55,12 @@
     .news-title{
         width: 100%;
     }
-    .contact-nomination a{
-        padding-top: 3rem !important;
-    }
+
   }
 
   @media all and (max-width: 450px) {
 
-    .contact-nomination a{
-        padding-top: 4rem !important;
-    }
+
     .bigbig-font{
         font-size: 28px !important;
     }
