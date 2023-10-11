@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="99" viewBox="0 0 98 99">
+  <defs>
+    <filter id="Ellipse_51" x="0" y="0" width="98" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_255" data-name="Rectangle 255" width="67" height="67" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Diplomatic_Relations" data-name="Diplomatic Relations" transform="translate(-521 -383)">
+    <g transform="matrix(1, 0, 0, 1, 521, 383)" filter="url(#Ellipse_51)">
+      <ellipse id="Ellipse_51-2" data-name="Ellipse 51" cx="40" cy="40.5" rx="40" ry="40.5" transform="translate(9 6)" fill="#fefefe"/>
+    </g>
+    <g id="Group_307" data-name="Group 307" transform="translate(537 396)">
+      <g id="Group_306" data-name="Group 306" clip-path="url(#clip-path)">
+        <path id="Path_222" data-name="Path 222" d="M98.738,135.44a33.9,33.9,0,0,0,4.009.386c-2.727,2.98-8.232,5.024-14.569,5.024s-11.829-2.036-14.559-5.008a21.864,21.864,0,0,0,8.96-1.75l.413-.21h.042v-6.4c0-.231-.011-.465-.032-.694l-.328-1.637a7.822,7.822,0,0,0-1-2.047,27.425,27.425,0,0,1,6.5-.759,27.713,27.713,0,0,1,5.912.625,7.818,7.818,0,0,0-1.435,4.511v6.4l.016.1.441.137a39.192,39.192,0,0,0,3.936,1.012Z" transform="translate(-54.277 -90.203)" fill="#88438d"/>
+        <path id="Path_223" data-name="Path 223" d="M33.5,0A33.5,33.5,0,1,0,67,33.5,33.5,33.5,0,0,0,33.5,0M48.881,17.993a6.16,6.16,0,1,1-6.161,6.159,6.159,6.159,0,0,1,6.161-6.159m-30.623,0A6.16,6.16,0,1,1,12.1,24.152a6.159,6.159,0,0,1,6.161-6.159M59.336,43.679l-.413.21a21.736,21.736,0,0,1-8.836,1.747c-2.743,3.707-8.965,6.3-16.185,6.3s-13.466-2.6-16.2-6.319a34.066,34.066,0,0,1-3.862-.384l-1.689-.31a39.156,39.156,0,0,1-3.936-1.009l-.441-.139-.016-.1v-6.4a7.9,7.9,0,0,1,5.878-7.617,6.751,6.751,0,0,0,9.246,0,7.887,7.887,0,0,1,3.639,2.152,28.778,28.778,0,0,1,14.228-.145,7.917,7.917,0,0,1,3.51-2.007,6.751,6.751,0,0,0,9.246,0,7.912,7.912,0,0,1,5.515,5.286l.331,1.637q.032.343.032.694v6.4Z" fill="#88438d"/>
+      </g>
+    </g>
+  </g>
+</svg>

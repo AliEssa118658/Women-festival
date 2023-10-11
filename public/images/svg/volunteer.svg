@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="99" viewBox="0 0 98 99">
+  <defs>
+    <filter id="Ellipse_54" x="0" y="0" width="98" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_259" data-name="Rectangle 259" width="67" height="67" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Volunteer" transform="translate(-315 -486)">
+    <g transform="matrix(1, 0, 0, 1, 315, 486)" filter="url(#Ellipse_54)">
+      <ellipse id="Ellipse_54-2" data-name="Ellipse 54" cx="40" cy="40.5" rx="40" ry="40.5" transform="translate(9 6)" fill="#fefefe"/>
+    </g>
+    <g id="Group_315" data-name="Group 315" transform="translate(331 499)">
+      <g id="Group_314" data-name="Group 314" clip-path="url(#clip-path)">
+        <path id="Path_231" data-name="Path 231" d="M33.5,0A33.5,33.5,0,1,0,67,33.5,33.5,33.5,0,0,0,33.5,0M22.6,21.282a3.941,3.941,0,1,1-3.941,3.941A3.943,3.943,0,0,1,22.6,21.282m9.984,11.4a.423.423,0,0,1-.423.423H28.376V55.25a1.766,1.766,0,0,1-1.766,1.766H23.384V42.827H22.333V57.016H19.107a1.766,1.766,0,0,1-1.766-1.766V33.106H16.29V45.849a1.708,1.708,0,1,1-3.416,0V30.639a.423.423,0,0,1,.423-.423H29.254V19a1.663,1.663,0,1,1,3.326,0ZM47.294,11.035a3.941,3.941,0,1,1-3.941,3.941,3.943,3.943,0,0,1,3.941-3.941m9.459,24.829a1.708,1.708,0,1,1-3.416,0V22.859h-.788V45a1.766,1.766,0,0,1-1.766,1.766H47.557V32.58H46.506V46.769H43.279A1.766,1.766,0,0,1,41.514,45V22.859H38a.423.423,0,0,1-.423-.423V8.734a1.641,1.641,0,0,1,3.282,0V19.969H56.33a.423.423,0,0,1,.423.423Z" fill="#88438d"/>
+      </g>
+    </g>
+  </g>
+</svg>

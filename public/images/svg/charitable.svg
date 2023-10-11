@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="99" viewBox="0 0 98 99">
+  <defs>
+    <filter id="Ellipse_41" x="0" y="0" width="98" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_244" data-name="Rectangle 244" width="67" height="67" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Charity" transform="translate(-109 -271)">
+    <g transform="matrix(1, 0, 0, 1, 109, 271)" filter="url(#Ellipse_41)">
+      <ellipse id="Ellipse_41-2" data-name="Ellipse 41" cx="40" cy="40.5" rx="40" ry="40.5" transform="translate(9 6)" fill="#fefefe"/>
+    </g>
+    <g id="Group_285" data-name="Group 285" transform="translate(124.5 284)">
+      <g id="Group_284" data-name="Group 284" clip-path="url(#clip-path)">
+        <path id="Path_200" data-name="Path 200" d="M33.461,0A33.523,33.523,0,0,0,0,31.177H9.678A9.768,9.768,0,0,1,16.378,34l11.253,11.24a3.036,3.036,0,0,1-4.3,4.291L14.294,40.5a.993.993,0,0,0-1.4,1.4l8.978,8.967a5.088,5.088,0,0,0,7.147,0A5.381,5.381,0,0,0,30.078,49.3H42.844a3.067,3.067,0,0,1,3.02,3.061,3.028,3.028,0,0,1-3.02,3.016H22.1a10.1,10.1,0,0,1-7.063-2.825L7.208,44.735a5.13,5.13,0,0,0-3.572-1.466H1.371A33.536,33.536,0,1,0,33.461,0M49.1,30.965,35.439,44.522,22.207,30.965a9.322,9.322,0,0,1-3.17-7.021,9.033,9.033,0,0,1,2.254-6.006,9.306,9.306,0,0,1,13.042-.912l1.318,1.146,1.321-1.146a9.176,9.176,0,0,1,6.04-2.254A9.224,9.224,0,0,1,49.1,30.965" fill="#88438d"/>
+      </g>
+    </g>
+  </g>
+</svg>

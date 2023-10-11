@@ -1,0 +1,75 @@
+@media all and (max-width: 1250px) {
+
+    .quatation-left, .quatation-right{
+        display: none;
+    }
+    .quatation-left2, .quatation-right2{
+        display: none;
+    }
+
+  }
+@media all and (max-width: 995px) {
+
+    .med-font2.bold.mb-4{
+        margin-top: 8%;
+    }
+  }
+@media all and (max-width: 750px) {
+
+    .med-font2 {
+        font-size: 15px;
+    }
+    .bigbig-font{
+        font-size: 40px !important;
+    }
+    .contact-nomination img{
+        left: 40%;
+    }
+    .slide-img{
+        background-size: 135% 100%;
+    }
+    .first-quote{
+        width: 100%;
+        margin-top: 5rem;
+    }
+    .quate-text2{
+        padding-inline: 2rem !important;
+    }
+    .quate2-img{
+        top: -50%;
+    }
+    .Al-Maktoom-img{
+        width: 70% !important;
+    }
+    .w-45{
+        width: 100% !important;
+        padding-left:0 !important;
+        padding-right:0 !important;
+    }
+    .products-option{
+        width: 61% !important;
+    }
+    .p-line2{
+        display: none;
+    }
+    .news-title{
+        width: 100%;
+    }
+  }
+
+  @media all and (max-width: 450px) {
+
+    .bigbig-font{
+        font-size: 28px !important;
+    }
+    .first-quote{
+        margin-top: 9rem;
+    }
+    .quate2-img{
+        left: 32%;
+        top: -44%;
+    }
+    .contact-us label{
+        margin-left: 0rem !important;
+    }
+}

@@ -1,0 +1,57 @@
+body{
+    direction: rtl;
+}
+p,h1,h2,h3,h4,h5,h6,ul,li{
+    text-align: right !important;
+}
+
+.quatation-left, .quatation-right{
+    left: -35rem;
+}
+.quatation-right{
+    left: 19% !important;
+}
+.quate-title{
+    float: left;
+}
+.quatation-left2, .quatation-right2 {
+    left:-38.2rem;
+}
+.quatation-right2{
+    left: 37%;
+} .swiper-rtl .swiper-button-prev{
+    left: 0 !important;
+    right: auto !important;
+}
+.p-line-miss{
+left: -65%;
+}
+.p-line-miss.nom-2 {
+left: 0;}
+.play-btn-href {
+
+    left: 60%;
+}
+.p-line::after, .p-line2::after{
+    left: 516px;
+}
+.p-line2::after{
+    left: 111px !important;
+}
+.contact-info-contact-us{
+    float: right;
+}
+.arrow-icon.mt-1.ml-2{
+    rotate: 180deg;
+    margin-top: 0.5rem !important;
+    margin-right: 0.5rem;
+}
+.ltr{
+    direction: ltr !important;
+}
+.s-b-n{
+    right: 0 !important;
+}
+.first-gen-container img{
+    float: left;
+}

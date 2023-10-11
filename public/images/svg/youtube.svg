@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="99" viewBox="0 0 98 99">
+  <defs>
+    <filter id="Ellipse_33" x="0" y="0" width="98" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="YouTube" transform="translate(-494 -19)">
+    <g transform="matrix(1, 0, 0, 1, 494, 19)" filter="url(#Ellipse_33)">
+      <ellipse id="Ellipse_33-2" data-name="Ellipse 33" cx="40" cy="40.5" rx="40" ry="40.5" transform="translate(9 6)" fill="#fefefe"/>
+    </g>
+    <path id="iconmonstr-youtube-6" d="M36.164,3.339c-6.645-.454-21.444-.452-28.08,0C.9,3.83.053,8.17,0,19.593.053,31,.892,35.355,8.085,35.848c6.637.452,21.435.454,28.08,0,7.185-.49,8.031-4.831,8.085-16.254C44.2,8.19,43.357,3.832,36.164,3.339ZM16.593,26.968V12.219l14.75,7.362Z" transform="translate(520.875 45.907)" fill="red"/>
+  </g>
+</svg>
