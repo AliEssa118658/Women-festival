@@ -14,7 +14,7 @@
                             <div class="row">
                                 <div class="col-md-6 mt-5">
 
-                                    <a href="http://127.0.0.1:8000/news/5" class="learn-more">{{__('Learn More')}}</a>
+                                    <a href="{{route('news/5')}}" class="learn-more">{{__('Learn More')}}</a>
                                 </div>
                                 <div class="col-md-6">
                                     <img src="/images/svg/large-logo.svg" alt="" class="d-block m-auto" style="width:60%">
