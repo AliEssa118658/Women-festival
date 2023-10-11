@@ -105,7 +105,7 @@
     <div class="overflow-sec">
         <div class="row mb-5 pt-5 justify-content-center">
             <div class="col-md-7 text-center">
-                <h1 class="lg-t blue-text text-center" >{{ __('The Events') }}</h1>
+                <h1 class="lg-t p-text text-center" >{{ __('The Events') }}</h1>
             </div>
         </div>
         <div class="mb-5 justify-content-center" >
