@@ -32,12 +32,7 @@
                         <div class="col-12">
                             <h1 class="med-font4 p2-text pt-5 pb-4 p-line">{{ __('Contact us') }}</h1>
                             <div class="row mb-3">
-                                <div class="col-4 d-flex align-items-center radio-subject">
-                                    <input type="radio" name="subject" id="complaints" value="{{ __('Complaints') }}"
-                                        required data-parsley-error-message=" required." />
-                                    <label for="complaints"
-                                        class="blue-text  font-xs">{{ __('Complaints') }}</label>
-                                </div>
+
                                 <div class="col-4 d-flex align-items-center radio-subject">
                                     <input type="radio" name="subject" id="suggestions" value="{{ __('Suggestions') }}"
                                         required data-parsley-error-message=" required." />
@@ -50,14 +45,14 @@
                                     <label for="inquiries"
                                         class="blue-text  font-xs">{{ __('Question') }}</label>
                                 </div>
-                            </div>
-                            <div class="row mb-3">
                                 <div class="col-4 d-flex align-items-center radio-subject">
                                     <input type="radio" name="subject" id="appreciation" value="{{ __('Nominee yourself') }}"
                                         required data-parsley-error-message=" required." />
                                     <label for="appreciation"
                                         class="blue-text  font-xs">{{ __('Nominee yourself') }}</label>
                                 </div>
+                            </div>
+                            <div class="row mb-3">
                                 <div class="col-4 d-flex align-items-center radio-subject">
                                     <input type="radio" name="subject" id="appreciation" value="{{ __('Nominee some one else') }}"
                                         required data-parsley-error-message=" required." />
