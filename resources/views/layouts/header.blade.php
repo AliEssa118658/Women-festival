@@ -4,14 +4,14 @@
     <div class="top">
         <div class="container">
             <div class="row pt-2">
-                <div class="col-lg-2 col-md-3 col-sm-4  d-none d-md-block mt-1 ltr" >
+                <div class="col-lg-2 col-md-3 col-sm-4  d-none d-md-block  ltr" style="margin-top: 0.3rem " >
 
-                        <span><img src="images/svg/w-phone.svg" alt=""></span>
+                        <span><img src="images/svg/w-phone.svg" style="margin-top:-0.3rem" alt=""></span>
                         <span ><a class="w-text header-font-large ml-1 b-hover" href="">+ 971 50 000 00 00</a></span>
 
                 </div>
-                <div class="col-lg-2  col-md-5   d-none d-md-block mt-1 ltr">
-                    <span><img src="images/svg/w-email.svg" alt=""></span><span ><a href="mailto:ali6721985@gmail.com?subject:Info" class="w-text b-hover header-font-large ml-1"> Info@email.com</a></span>
+                <div class="col-lg-2  col-md-5   d-none d-md-block  ltr" style="margin-top: 0.3rem ">
+                    <span><img src="images/svg/w-email.svg" alt="" style="width: 11.3%;margin-top:-0.35rem"></span><span ><a href="mailto:ali6721985@gmail.com?subject:Info" class="w-text b-hover header-font-large ml-1"> Info@email.com</a></span>
                 </div>
                 <div class="col-lg-5  col-md-1  d-none d-sm-block "></div>
 
