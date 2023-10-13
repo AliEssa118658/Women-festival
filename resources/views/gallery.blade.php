@@ -1,7 +1,7 @@
 @extends('layouts.master')
 @section('content')
 <section class=""  >
-    <span class="p-line-miss"></span>  <h1 class="big-font p-text text-center m-auto w-22" >{{__('The Gallery')}}</h1><span class="p-line-miss nom-2"></span>
+    <span class="p-line-miss"></span>  <h1 class="bigbig-font p-text text-center m-auto w-22" >{{__('The Gallery')}}</h1><span class="p-line-miss nom-2"></span>
 
         <div class="container   mt-5">
 

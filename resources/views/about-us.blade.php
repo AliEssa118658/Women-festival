@@ -3,7 +3,7 @@
 
 
 <section class="about-back" style="background-color: ">
-    <span class="p-line-miss"></span>  <h1 class="big-font p-text text-center">{{__('About Us')}}</h1><span class="p-line-miss nom-2"></span>
+    <span class="p-line-miss"></span>  <h1 class="bigbig-font p-text text-center">{{__('About Us')}}</h1><span class="p-line-miss nom-2"></span>
 
     <img src="/images/svg/women.svg"  class="women-back">
     <div class="container py-5">

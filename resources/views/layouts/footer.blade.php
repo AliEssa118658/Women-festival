@@ -34,7 +34,7 @@
     <div class=" center-text mt-1" >
 
 
-                <p class="text-center">All rights reserved</p>
+                <p class="text-center">{{__('All rights reserved')}}</p>
 
 
 

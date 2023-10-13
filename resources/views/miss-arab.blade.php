@@ -9,7 +9,7 @@
     </div>
 </section>
 <section  class="mt-5 ">
-    <span class="p-line-miss"></span>  <h1 class="big-font p-text text-center">{{__('Miss Arab Social Media')}}</h1><span class="p-line-miss nom-2" ></span>
+      <h1 class="bigbig-font p-text text-center">{{__('Miss Arab Social Media')}}</h1><span class="p-line-miss nom-2 ex" ></span>
     <div class="container my-5">
         <div class="row mt-5">
             <div class="col-lg-5">

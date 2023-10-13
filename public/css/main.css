@@ -43,7 +43,7 @@ font-size: var(--header-font-small);
     font-size: 36px;
 }
 .bigbig-font{
-    font-size: 50px !important;
+    font-size: 90px !important;
 }
 @font-face {
     font-family: 'Tajawal';
@@ -825,6 +825,9 @@ a{
 {
     left: 65%;top: 0;
 }
+.p-line-miss.nom-2.ex{
+    width: 18% !important;top:-3rem !important
+}
 .cat-logo{
     width: 100px;
     height: 100px;
@@ -883,7 +886,7 @@ a{
 }
 .card.firsts{
     border-radius: 15px;
-    border:2px solid black;
+    box-shadow: 2px 0px 5px #7c0597;
     height: 26.2rem;
 }
 .card.firsts img{

@@ -16,6 +16,10 @@
   }
 @media all and (max-width: 750px) {
 
+    .p-line-miss.nom-2.ex{
+        top:0rem !important;
+        width: 12%;
+    }
     .w-80{
         width: 100% !important;
     }

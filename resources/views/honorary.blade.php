@@ -2,7 +2,7 @@
 @section('content')
 
 <section  class="mt-5 ">
-    <span class="p-line-miss"></span>  <h1 class="big-font p-text text-center">{{__('The Honorees')}}</h1><span class="p-line-miss nom-2" ></span>
+    <span class="p-line-miss"></span>  <h1 class="bigbig-font p-text text-center">{{__('The Honorees')}}</h1><span class="p-line-miss nom-2" ></span>
     <div class="container my-5">
         <div class="row mt-5">
             <div class="col-lg-5">
