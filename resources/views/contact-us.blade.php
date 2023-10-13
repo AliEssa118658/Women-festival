@@ -6,13 +6,13 @@
         <div class="container py-5">
             <div class="row contact-us ">
                 <div class="col-lg-4 col-md-12 my-3">
-                    <div class="light-blue-bg2 px-5 h-100 pb-5">
-                        <h1 class="med-font4 p2-text pt-5 pb-4 p-line2 text-center">{{ __('Contact information') }}
+                    <div class="light-blue-bg2 px-4 h-100 pb-5">
+                        <h1 class="med-font4 p2-text pt-5 pb-4 p-line2 ">{{ __('Contact information') }}
                         </h1>
                         <br>
-                       <img src="/images/svg/p-phone.svg" alt="" class="pb-1"> <span class="med-font2 ml-3 contact-info-contact-us">{{ __('+ 971 50 000 00 00') }}</span> <br><br>
-                       <img src="/images/svg/p-email.svg" alt=""> <span class="med-font2 ml-2 contact-info-contact-us"> <a href="mailto:ali6721985@gmail.com" class="y-text">ali6721985@gmail.com</a></span><br><br>
-                       <img src="/images/svg/p-location.svg" class="pb-1" alt=""> <span class="med-font2 ml-3 contact-info-contact-us">{{ __('Dubai, First Street') }}</span> <br>
+                       <img src="/images/svg/p-phone.svg" alt="" class="pb-1"> <span class="med-font2 ml-3 contact-info-contact-us" style="direction: ltr !important">{{ __('+ 971 50 000 00 00') }}</span> <br><br>
+                       <img src="/images/svg/p-email.svg" alt=""> <span class="med-font2 ml-2 contact-info-contact-us"> <a href="mailto:info@women.com" class="y-text">info@women.com</a></span><br><br>
+                       <img src="/images/svg/p-location.svg" class="pb-1" alt=""> <span class="med-font2 ml-3 contact-info-contact-us">{{ __('United Arab Emirates, Dubai') }}</span> <br>
 
                        <div class="col-lg-12 mt-5 text-center">
                         <p>{{__('You can also find us on')}}</p>
