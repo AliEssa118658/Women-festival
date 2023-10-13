@@ -16,6 +16,16 @@
   }
 @media all and (max-width: 750px) {
 
+    .w-80{
+        width: 100% !important;
+    }
+    .first-gen-container{
+        width: 100% !important;
+    }
+    .first-gen-container p,.first-gen-container h1,.first-gen-container h2{
+        padding-left: 0% !important;
+        padding-right: 10% !important;
+    }
     .med-font2 {
         font-size: 15px;
     }
@@ -73,5 +83,8 @@
     }
     .contact-us label{
         margin-left: 0rem !important;
+    }
+    .quate-title{
+        font-size: 11.8px !important;
     }
 }

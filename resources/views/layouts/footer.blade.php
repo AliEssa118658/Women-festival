@@ -10,7 +10,7 @@
                     <a href="{{route('about-us')}}" class="header-font-large d-block text-center">{{__('About us')}}</a><br>
                     <a href="{{route('miss-arab')}}" class="header-font-large d-block text-center">{{__('Ms Arab Social Media')}}</a><br>
                     <a href="{{route('care-packages')}}" class="header-font-large d-block text-center">{{__('Sponsorship packages')}}</a><br>
-                    <a href="{{route('welcome')}}" class="header-font-large d-block text-center">{{__('Early pioneers')}} </a><br>
+                    <a href="{{route('first-gen')}}" class="header-font-large d-block text-center">{{__('Early pioneers')}} </a><br>
                     <a href="{{route('honorary')}}" class="header-font-large d-block text-center">{{__('The Honorees')}} </a>
 
             </div>
@@ -18,9 +18,9 @@
 
                     <h1 class="med-font2 bold p-text  mb-4 text-center">{{__('Contact us')}}</h1>
 
-                    <div class="d-flex justify-content-center "><img src="images/svg/p-phone.svg" class="ml-4" alt="" width="15"><a class=" header-font-large ml-2  text-center" href="">+97199999999</a></div>
+                    <div class="d-flex justify-content-center "><img src="images/svg/p-phone.svg" class="ml-1" alt="" width="15"><a class=" header-font-large ml-2  text-center" href="">+ 971 50 000 00 00</a></div>
                     <br>
-                    <div class="d-flex justify-content-center"><img src="images/svg/p-email.svg" class="ml-3" alt="" width="18"><a href="" class=" header-font-large ml-1 text-center"> email@email.com</a></div>
+                    <div class="d-flex justify-content-center"><img src="images/svg/p-email.svg" class="ml-3" alt="" width="18"><a href="" class=" header-font-large ml-1 text-center"> Info@email.com</a></div>
                     <br>
                     <div class="d-flex justify-content-center"><img src="images/svg/p-location.svg" class="ml-3" alt="" width="18"><a href="" class=" header-font-large ml-1 text-center"> Dubai, First Street</a></div>
 
@@ -34,7 +34,7 @@
     <div class=" center-text mt-1" >
 
 
-                <p class="text-center">All rights reserved for example website 2023</p>
+                <p class="text-center">All rights reserved</p>
 
 
 

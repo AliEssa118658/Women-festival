@@ -10,7 +10,7 @@
                         <h1 class="med-font4 p2-text pt-5 pb-4 p-line2 text-center">{{ __('Contact information') }}
                         </h1>
                         <br>
-                       <img src="/images/svg/p-phone.svg" alt="" class="pb-1"> <span class="med-font2 ml-3 contact-info-contact-us">{{ __('+11-1144-223') }}</span> <br><br>
+                       <img src="/images/svg/p-phone.svg" alt="" class="pb-1"> <span class="med-font2 ml-3 contact-info-contact-us">{{ __('+ 971 50 000 00 00') }}</span> <br><br>
                        <img src="/images/svg/p-email.svg" alt=""> <span class="med-font2 ml-2 contact-info-contact-us"> <a href="mailto:ali6721985@gmail.com" class="y-text">ali6721985@gmail.com</a></span><br><br>
                        <img src="/images/svg/p-location.svg" class="pb-1" alt=""> <span class="med-font2 ml-3 contact-info-contact-us">{{ __('Dubai, First Street') }}</span> <br>
 

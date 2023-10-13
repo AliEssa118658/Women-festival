@@ -7,11 +7,11 @@
                 <div class="col-lg-2 col-md-3 col-sm-4  d-none d-md-block mt-1 ltr" >
 
                         <span><img src="images/svg/w-phone.svg" alt=""></span>
-                        <span ><a class="w-text header-font-large ml-1 b-hover" href="">+97199999999</a></span>
+                        <span ><a class="w-text header-font-large ml-1 b-hover" href="">+ 971 50 000 00 00</a></span>
 
                 </div>
                 <div class="col-lg-2  col-md-5   d-none d-md-block mt-1 ltr">
-                    <span><img src="images/svg/w-email.svg" alt=""></span><span ><a href="mailto:ali6721985@gmail.com?subject:Info" class="w-text b-hover header-font-large ml-1"> email@email.com</a></span>
+                    <span><img src="images/svg/w-email.svg" alt=""></span><span ><a href="mailto:ali6721985@gmail.com?subject:Info" class="w-text b-hover header-font-large ml-1"> Info@email.com</a></span>
                 </div>
                 <div class="col-lg-5  col-md-1  d-none d-sm-block "></div>
 
