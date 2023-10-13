@@ -1,3 +1,7 @@
+.p-line-miss.nom-2.ex{
+    left: 0 !important;
+}
+
 @media all and (max-width: 1250px) {
 
     .quatation-left, .quatation-right{

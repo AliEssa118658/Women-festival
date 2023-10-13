@@ -35,7 +35,7 @@
             <li class="item  header-font-small @if  (request()->is('/')) active-link @endif"><a href="{{route('welcome')}}">{{__('Home')}}</a></li>
             <li class="item header-font-small @if  (request()->is('honorary')) active-link @endif"><a href="{{route('honorary')}}">{{__('Honorees')}}</a></li>
             <li class="item header-font-small @if  (request()->is('first-gen')) active-link @endif"><a href="{{route('first-gen')}}">{{__('Early pioneers')}}</a></li>
-            <li class="item  header-font-small @if  (request()->is('miss-arab')) active-link @endif"><a href="{{route('miss-arab')}}">{{__('Ms Arab Social Media')}}</a></li>
+            <li class="item  header-font-small @if  (request()->is('miss-arab')) active-link @endif"><a href="{{route('miss-arab')}}">{{__('Miss Arab Social Media')}}</a></li>
             <li class="item  header-font-small @if  (request()->is('gallery')) active-link @endif"><a href="{{route('gallery')}}">{{__('Gallery')}}</a></li>
             <li class="item header-font-small @if  (request()->is('about-us')) active-link @endif"><a href="{{route('about-us')}}">{{__('About us')}}</a></li>
             <li class="item header-font-small @if  (request()->is('contact-us')) active-link @endif"><a href="{{route('contact-us')}}">{{__('Contact us')}}</a></li>
