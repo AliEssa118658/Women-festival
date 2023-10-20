@@ -1,9 +1,11 @@
 @extends('layouts.master')
 @section('content')
 <section class="mb-5 mt-5"  >
+    <img src="/images/png/square5.png" alt="" class="scale-respo" style="position: absolute;left:0;top:60%">
+    <img src="/images/png/square6.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:20%">
     <div class="container ">
         <div class="row logos-container">
-            <div class="col-lg-6  my-3" ><h1 class="bigbig-font p-text text-center mt-5">{{__('Miss Arab Social Media')}}</h1></div>
+            <div class="col-lg-6  my-3" ><h1 class="bigbig-font miss-text text-center mt-5">{{__('Miss Arab Social Media')}}</h1></div>
             <div class="col-lg-6  mt-5"><img src="/images/svg/miss-arab.svg" class="w-50" alt="" ></div>
         </div>
     </div>
@@ -16,10 +18,10 @@
             </div>
         @if (app()->getLocale() === 'ar')
 
-            <div class="col-lg-7">
+            <div class="col-lg-7 mt-5">
 
 
-            <p class="med-font2 pl-2">« ميس عرب سوشيال ميديا » جائزة متزامنة مع المهرجان السنوي للمرأة العربية. <br>
+            <p class="med-font3 pl-2 p-text">« ميس عرب سوشيال ميديا » جائزة متزامنة مع المهرجان السنوي للمرأة العربية. <br>
             تهدف الجائزة إلى دعم مبادرة توظيف وسائل التواصل الاجتماعي المختلفة والمتعددة، في تعزيز تمكين المرأة العربية، وخاصة في المناطق النائية، وفي البادية والأرياف والقرى والمخيمات. <br>
            نؤمن بأهمية توظيف وسائل التواصل الاجتماعي في بث مضامين وإيصال محتوى معرفي إلى المرأة العربية، يشرح لها حقوقها ومكتسباتها، ويدعوها إلى المشاركة الفاعلة من موقعها، في صياغة حاضر ومستقبل المرأة العربية.  <br>
             ولعل منح هذه الجائزة إلى لفيف من سيدات العالم العربي، من مختلف التخصصات والقطاعات، ومن النجوم والمشاهير، يُشكل حافزاً على تفعيل هذه المنصات لأهداف وغايات سامية.</p>
@@ -28,7 +30,7 @@
             <div class="col-lg-7">
 
 
-            <p class="med-font2">“Miss Arab Social Media” is an award coinciding with the annual Arab Women’s Festival. <br>
+            <p class="med-font3 p-text">“Miss Arab Social Media” is an award coinciding with the annual Arab Women’s Festival. <br>
                 The award aims to support the initiative to employ various social media platforms to enhance the empowerment of Arab women, especially in remote areas, the desert, the countryside, villages and camps.<br>
                 We believe in the importance of using social media to broadcast content and deliver knowledgeable content to Arab women, explaining to them their rights and gains, and calling on them to participate actively, from their position, in shaping the present and future of Arab women.<br>
                 Perhaps granting this award to a group of women from the Arab world, from various specializations and sectors, and from stars and celebrities, constitutes an incentive to activate these platforms for lofty goals and objectives.</p>

@@ -6,10 +6,10 @@ p,h1,h2,h3,h4,h5,h6,ul,li{
 }
 
 .quatation-left, .quatation-right{
-    left: -35rem;
+    left: -31rem
 }
 .quatation-right{
-    left: 19% !important;
+    left: 14% !important;
 }
 .quate-title{
     float: left;

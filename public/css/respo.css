@@ -34,9 +34,36 @@
     .p-line-first.nom-2{
         top: -0.6rem !important;
     }
+    .main-square.third,.main-square.fourth{
+        display: none;
+    }
   }
 @media all and (max-width: 750px) {
+    .event-square
+    {
+        margin-top: 3rem;
+        margin-bottom: 5rem;
+        margin-left: 1rem ;
+    }
+    .scale-respo{
+        scale: 0.8;
+        left: -1rem !important;
 
+    }
+    .scale-respo2{
+        scale: 0.8;
+        right: -1rem !important;
+    }
+    .main-square.one{
+        left: 0% !important;
+    }
+    .large-logo{
+        margin-top: 15rem !important;
+    }
+    .Al-Maktoom-img{
+        margin-bottom: 8rem !important;
+        width: 60% !important;
+    }
     .p-line-miss.nom-2.ex{
         top:0rem !important;
         width: 12%;
@@ -71,10 +98,11 @@
         padding-inline: 2rem !important;
     }
     .quate2-img{
-        top: -50%;
+        top: 276rem;
+        left: 37%;
     }
-    .Al-Maktoom-img{
-        width: 70% !important;
+    .w-60{
+        width: 100%;
     }
     .w-45{
         width: 100% !important;
@@ -105,7 +133,10 @@
 
   @media all and (max-width: 450px) {
 
-
+    .scale-respo {
+        scale: 0.5;
+        left: -2.9rem !important;
+    }
     .bigbig-font{
         font-size: 28px !important;
     }
@@ -114,7 +145,7 @@
     }
     .quate2-img{
         left: 32%;
-        top: -44%;
+        top: 289rem;
     }
     .contact-us label{
         margin-left: 0rem !important;

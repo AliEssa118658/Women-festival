@@ -2,6 +2,7 @@
     --white-color:#fff;
     --black-color:black;
     --purple-color:#493686;
+    --purple2-color:#88438D;
     --header-font-large:16px;
     --header-font-small:14px;
 
@@ -313,6 +314,42 @@ a{
     font-size: 18.8px;
     margin: 20% auto;
 }
+.learn-more-p{
+    display: block;
+    width: 9.2rem;
+    height:  3.5rem;
+    background:linear-gradient(90deg, #4A3685 8%, #7b3380 36%, #6c2472 65%, #5f2988 97%);
+    border-radius: 50px;
+    padding: 12px 21px 10px 21px;
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+    font-size: 18.8px;
+    margin: auto;
+    margin-top: 2rem;
+}
+.main-square{
+    position: absolute;
+}
+.main-square.one{
+    left: -3%;
+
+}
+.w-90{
+    width: 90%;
+    width: 90%;
+}
+.main-square.sec{
+    left: 35%;
+    top: 8%;
+}
+.main-square.third{
+    left: 3%;
+    top: 62%
+}
+.main-square.fourth{
+    left: 15%;
+    top: 37%;
+}
 .swiper-pagination-clickable .swiper-pagination-bullet {
     height: 15px;
     width: 15px;
@@ -346,13 +383,11 @@ a{
   /* Second section sytle*/
   .second-sec{
 
-    background: url('../images/svg/groub173.svg') no-repeat;
-    background-size: 33% 159%;
-    background-position: -19% 52%;
+
     display: flex;
     text-align: center;
     align-items: center;
-    padding-top: 8%;
+    padding-top: 5%;
     padding-bottom: 8%;
   }
 
@@ -365,15 +400,14 @@ a{
   .first-quote .quate-text{
     background-color: #FFFFFF;
     border-radius: 20px;
-    margin-top: 0%;
+    margin-top: 3%;
     text-align: left;
 
-    padding-inline: 4.2rem;
+    padding-inline: 2rem;
     color: var(--purple-color);
     border: 1px solid #FFFFFF;
-    -webkit-box-shadow: 3px 9px 9px -4px rgba(0,0,0,0.75);
-    -moz-box-shadow: 3px 9px 9px -4px rgba(0,0,0,0.75);
-    box-shadow: 3px 9px 9px -4px rgba(0,0,0,0.75);
+    box-shadow:0px 0px 10px 2px rgb(210 210 210)
+
   }
 .quatation-left,.quatation-right{
     background: url('../images/svg/quate-left.svg') no-repeat;
@@ -381,11 +415,11 @@ a{
     position: relative;
     width: 50px;
     height: 50px;
-    top: 8rem;
+    top: 11rem;
     left: -4.8rem;
 }.quatation-right{
     background: url('../images/svg/quate-right.svg') no-repeat;
-    top: -9.8rem;
+    top: -9.9rem;
         left: 107%;
 }
 
@@ -405,9 +439,11 @@ a{
 
 /*THIRD SECTION STYLE*/
 .third-sec{
-    background-image:linear-gradient(90deg, #4A3685 8%, #9B37A2 36%, #AC2EB5 65%, #B321BE 97%);
     height: auto;
     text-align: left;
+}
+.w-back{
+    background-color: var(--white-color);
 }
 .third-sec ul{
     list-style:disc;
@@ -436,21 +472,26 @@ a{
 .quate2-img
 {
     position: absolute;
-    top: -25%;
-    left: 42%;
+    left: 45%;
+    top: 176rem;
 }
 .quate-text2{
     background-color: #FFFFFF;
     border-radius: 20px;
-    margin-top: 0%;
+    margin: auto;
     text-align: center;
-
-    padding-inline: 10.2rem;
+    width: 75%;
+    padding-inline: 2.2rem;
     color: var(--purple-color);
     border: 1px solid #FFFFFF;
     -webkit-box-shadow: 3px 9px 9px -4px rgba(0,0,0,0.75);
     -moz-box-shadow: 3px 9px 9px -4px rgba(0,0,0,0.75);
     box-shadow: 3px 9px 9px -4px rgba(0,0,0,0.75);
+}
+.miss-text{
+    background: -webkit-linear-gradient(90deg, #0099DB 8%, #D26764 36%, #E78B72 65%, #9A7D8F 97%);;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 /*FIFTH section*/
 .overflow-sec{
@@ -492,14 +533,13 @@ a{
     scale: 1.1;
 }
 .card-img-top.card2 {
-    object-fit: cover;
     width: 100%;
     height: 19rem;
 }
 .card-sec .card-body{
 	position: relative;
-    font-size: 22px;
-    height: 13rem !important;
+    font-size: 22px !important;
+    height: 10rem !important;
 }
 .card-sec1 .card-body{
 	position: relative;
@@ -513,7 +553,7 @@ a{
     background-image:linear-gradient(90deg, #88438D 8%, #A845AF 36%, #b72cc1 65%, #b500a99e 97%);
     border-radius: 20px;
     padding-top: 2%;
-    padding-bottom: 5%;
+    padding-bottom: 3%;
 }
 .contact-nomination img{
     position: absolute;
@@ -546,8 +586,9 @@ a{
 
 /*NEWS STYLE*/
 .news-header{
-    background-image:linear-gradient(61deg, #8c4491 8%, #a845af38 61%, #b72cc152 65%, #b500a961 82%), url(../images/png/news-header.png);
-    height: 55vh;
+    background: url(../images/svg/event-header.svg) no-repeat;
+    height: 75vh;
+    background-size: cover;
     border-radius: 20px;
     padding-inline: 1rem;
 }
@@ -1048,5 +1089,48 @@ a{
 .box-vision
 {
 border-radius: 25px;
-box-shadow: 0px 0px 25px 2px rgb(255 255 255)
+box-shadow:0px 0px 10px 2px rgb(210 210 210)
+}
+
+.event-square{
+    width: 20rem;
+    height: 20rem;
+    border: 5px solid var(--purple-color);
+    rotate: -45deg;
+    background-color: var(--white-color);
+    margin-left: 4rem;
+
+    color: var(--purple-color);
+}
+.event-square h1{
+    rotate: 45deg;
+    padding: 130px 31px 171px 0px;
+}
+.event-square span{
+    display: block;
+    rotate: 45deg;
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+
+    border-top: 100px solid var(--purple2-color);
+    margin: -1.9rem 11rem 2rem 0rem;
+}
+.event-square a{
+    position: relative;
+    top: -5.8rem;
+    left: 4.2rem;
+    display: block;
+    width: 8rem;
+    font-size: 22px;
+    color: white;
+}
+.event-square:hover{
+    background-color: var(--purple-color);
+    color: var(--white-color) !important;
+
+}
+.event-square a:hover{
+    color: var(--purple-color);
 }
