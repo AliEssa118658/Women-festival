@@ -37,7 +37,7 @@
 
                                         <img src="{{ asset('/images/svg/'.$honorary->category.'.svg') }}" class="cat-logo" alt="" />
                                         <div class="card-body miss">
-                                            <h1 class="med-font3 b-text" id="title">{{__($honorary->name)}}</h1>
+                                            <h1 class="med-font3 b-text text-center" id="title">{{__($honorary->name)}}</h1>
 
                                                 <span class="t-des b-text subtitle" id="">{{ __($honorary->country)}}</span><br>
                                                 <span class="t-des b-text subtitle" id="">{{ __($honorary->category)}}{{_(' sector')}}</span>
@@ -83,7 +83,7 @@
 
                                         <img src="{{ asset('/images/svg/star.svg') }}" class="cat-logo" alt="" />
                                         <div class="card-body miss">
-                                            <h1 class="med-font3 b-text" id="title">{{__($ambassador->name)}}</h1>
+                                            <h1 class="med-font3 b-text text-center" id="title">{{__($ambassador->name)}}</h1>
 
                                                 <span class="t-des b-text subtitle" id="">{{ __($ambassador->country)}}</span><br>
                                                 <span class="t-des b-text subtitle" id="">{{ __($ambassador->work)}}</span>

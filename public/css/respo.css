@@ -73,7 +73,10 @@
     .news-title{
         width: 100%;
     }
+    .first-gen-container img{
 
+        margin-top: 0 !important;
+    }
   }
 
   @media all and (max-width: 450px) {

@@ -80,7 +80,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'ar',
 
     /*
     |--------------------------------------------------------------------------
@@ -93,11 +93,11 @@ return [
     |
     */
 
-    'fallback_locale' => 'en',
+    'fallback_locale' => 'ar',
 
     'available_locales' => [
-        'English' => 'en',
         'عربي' => 'ar',
+        'English' => 'en'
 
       ],
     /*

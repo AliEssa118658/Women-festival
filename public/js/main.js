@@ -60,14 +60,17 @@ elements.forEach(element => {
             // centeredSlides: true,
             grabCursor: true,
             breakpoints: {
-                480: {
+                320: {
                     slidesPerView: 1
                 },
-                740: {
+                640: {
                     slidesPerView: 2
                 },
                 960: {
                     slidesPerView: 3
+                },
+                1280: {
+                    slidesPerView: 4
                 },
 
             },

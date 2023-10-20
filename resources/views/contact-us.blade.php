@@ -12,7 +12,7 @@
                         <br>
                        <img src="/images/svg/p-phone.svg" alt="" class="pb-1"> <span class="med-font2 ml-3 contact-info-contact-us" style="direction: ltr !important">{{ __('+ 971 50 000 00 00') }}</span> <br><br>
                        <img src="/images/svg/p-email.svg" alt=""> <span class="med-font2 ml-2 contact-info-contact-us"> <a href="mailto:info@women.com" class="y-text">info@women.com</a></span><br><br>
-                       <img src="/images/svg/p-location.svg" class="pb-1" alt=""> <span class="med-font2 ml-3 contact-info-contact-us">{{ __('United Arab Emirates, Dubai') }}</span> <br>
+                       <img src="/images/svg/p-location.svg" class="pb-1" alt=""> <span class="med-font2 ml-3 contact-info-contact-us">{{ __('Dubai, United Arab Emirates') }}</span> <br>
 
                        <div class="col-lg-12 mt-5 text-center">
                         <p>{{__('You can also find us on')}}</p>

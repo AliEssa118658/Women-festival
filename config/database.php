@@ -143,5 +143,6 @@ return [
         ],
 
     ],
+    'table_prefix' => 'lunar_',
 
 ];

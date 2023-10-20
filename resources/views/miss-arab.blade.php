@@ -3,13 +3,12 @@
 <section class="mb-5 mt-5"  >
     <div class="container ">
         <div class="row logos-container">
-            <div class="col-lg-6  my-3" ><img src="/images/svg/logo-big.svg" class="w-70" alt=""></div>
-            <div class="col-lg-6  my-3"><img src="/images/svg/miss-arab.svg" class="w-50" alt=""></div>
+            <div class="col-lg-6  my-3" ><h1 class="bigbig-font p-text text-center mt-5">{{__('Miss Arab Social Media')}}</h1></div>
+            <div class="col-lg-6  mt-5"><img src="/images/svg/miss-arab.svg" class="w-50" alt="" ></div>
         </div>
     </div>
 </section>
 <section  class="mt-5 ">
-      <h1 class="bigbig-font p-text text-center">{{__('Miss Arab Social Media')}}</h1><span class="p-line-miss nom-2 ex" ></span>
     <div class="container my-5">
         <div class="row mt-5">
             <div class="col-lg-5">
@@ -20,7 +19,7 @@
             <div class="col-lg-7">
 
 
-            <p class="med-font2">« ميس عرب سوشيال ميديا » جائزة متزامنة مع المهرجان السنوي للمرأة العربية. <br>
+            <p class="med-font2 pl-2">« ميس عرب سوشيال ميديا » جائزة متزامنة مع المهرجان السنوي للمرأة العربية. <br>
             تهدف الجائزة إلى دعم مبادرة توظيف وسائل التواصل الاجتماعي المختلفة والمتعددة، في تعزيز تمكين المرأة العربية، وخاصة في المناطق النائية، وفي البادية والأرياف والقرى والمخيمات. <br>
            نؤمن بأهمية توظيف وسائل التواصل الاجتماعي في بث مضامين وإيصال محتوى معرفي إلى المرأة العربية، يشرح لها حقوقها ومكتسباتها، ويدعوها إلى المشاركة الفاعلة من موقعها، في صياغة حاضر ومستقبل المرأة العربية.  <br>
             ولعل منح هذه الجائزة إلى لفيف من سيدات العالم العربي، من مختلف التخصصات والقطاعات، ومن النجوم والمشاهير، يُشكل حافزاً على تفعيل هذه المنصات لأهداف وغايات سامية.</p>
@@ -37,7 +36,6 @@
         @endif
         </div>
     </div>
-    <img src="/images/svg/tiktok-back.svg" alt="" style="position: absolute;top: 58rem;left:0;">
     <img src="/images/svg/snapchat-back.svg" alt=""  style="position:absolute;top:120rem;left:5%;">
     <img src="/images/svg/at-back.svg" alt=""   style="position: absolute;top:85rem;left:2rem">
     <img src="/images/svg/hash.svg" alt=""   style="position: absolute;top:103rem;left:0rem">
@@ -61,7 +59,7 @@
 
                                         <img src="{{ asset('/images/svg/'.$miss->categiry.'.svg') }}" class="cat-logo" alt="" />
                                         <div class="card-body miss">
-                                            <h1 class="med-font3 b-text" id="title">{{__($miss->name)}}</h1>
+                                            <h1 class="med-font3 b-text text-center" id="title">{{__($miss->name)}}</h1>
 
                                                 <span class="t-des b-text subtitle" id="">{{ __($miss->work)}}</span><br>
                                                 <span class="t-des b-text subtitle" id="">{{ __($miss->country)}}</span><br>

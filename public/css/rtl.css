@@ -26,7 +26,10 @@ p,h1,h2,h3,h4,h5,h6,ul,li{
 .p-line-miss{
 left: -70%;
 }
-.p-line-miss.nom-2 {
+.p-line-first{
+left: -82%;
+}
+.p-line-miss.nom-2,.p-line-first.nom-2  {
 left: 0;}
 .play-btn-href {
 
