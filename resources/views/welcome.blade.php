@@ -16,7 +16,7 @@
 
             </div>
             <div class="col-md-6  mt-5">
-                <img src="/images/svg/large-logo.svg" alt="" class="d-block m-auto large-logo" style="width:60%" >
+                <img src="/images/svg/large-logo.svg?" alt="" class="d-block m-auto large-logo" style="width:60%" >
                 <a href="{{ route('news', ['news' => 5]) }}" class="learn-more-p">{{__('Learn More')}}</a>
             </div>
         </div>
