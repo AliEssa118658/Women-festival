@@ -46,7 +46,7 @@
                                             <h1 class="med-font3 b-text text-center" id="title">{{__($honorary->name)}}</h1>
 
                                                 <span class="t-des b-text subtitle" id="">{{ __($honorary->country)}}</span><br>
-                                                <span class="t-des b-text subtitle" id="">{{ __($honorary->category)}}{{_(' sector')}}</span>
+                                                <span class="t-des b-text subtitle" id="">{{ __($honorary->category)}}{{__(' sector')}}</span>
 
                                         </div>
                                     </div>
