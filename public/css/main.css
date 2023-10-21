@@ -972,8 +972,8 @@ a{
 }
 .card.firsts img{
     border-radius: 15px 15px 0 0;
-    width: 100.4% !important;
-    margin-right: -1.2px;}
+    width: 100% !important;
+}
 .first-gen-container{
     width: 80%;
     border-radius: 25px;
