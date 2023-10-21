@@ -6,6 +6,7 @@
     <img src="/images/png/square2.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:20%">
     <img src="/images/png/square3.png" alt="" class="scale-respo" style="position: absolute;left:0;top:70rem">
     <img src="/images/png/square4.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:110rem">
+    <img src="/images/png/square1.png" alt="" class="scale-respo" style="position: absolute;left:0;top:126rem">
     <div class="container ">
         <div class="row" style="direction: rtl !important">
             <div class="col-md-6">
@@ -79,16 +80,25 @@
         </div>
         <div class=" row justify-content-center" style="margin: 8% 3% 12% auto" >
             <div class="event-square">
+                <img src="/images/svg/miss-arab.svg?" alt="">
+                <div>
                 <h1 class=" text-center m-auto"  style="        padding: 77px 0px 35px 34px;">{{__('Miss Arab Social Media 2024')}}</h1>
              <span>   <a class="" href="{{ route('news', ['news' => 3]) }}">{{__('Learn More')}}</a></span>
             </div>
-            <div class="event-square">
-                <h1 class=" text-center m-auto">{{__('Mother of the Emirates necklace')}}</h1>
-                <span style="    margin: -7.7rem 11rem 2rem 0rem;">   <a class="" href="{{ route('news', ['news' => 1]) }}">{{__('Learn More')}}</a></span>
             </div>
             <div class="event-square">
+                <img src="/images/png/daimond.jpeg?" alt="">
+                <div>
+                <h1 class=" text-center m-auto">{{__('Mother of the Emirates necklace')}}</h1>
+                <span style="    margin: -7.7rem 11rem 2rem 0rem;">   <a class="" href="{{ route('news', ['news' => 1]) }}">{{__('Learn More')}}</a></span>
+                </div>
+            </div>
+            <div class="event-square">
+                <img src="/images/png/koakb.jpg?" alt="">
+                <div>
                 <h1 class=" text-center m-auto">{{__('Twelve Planets')}}</h1>
                 <span style="    margin: -7.7rem 11rem 2rem 0rem;">   <a class="" href="{{ route('news', ['news' => 2]) }}">{{__('Learn More')}}</a></span>
+                </div>
             </div>
         </div>
     </div>
