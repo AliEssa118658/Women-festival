@@ -5,11 +5,11 @@ p,h1,h2,h3,h4,h5,h6,ul,li{
     text-align: right !important;
 }
 
-.quatation-left, .quatation-right{
-    left: -31rem
+.quatation-left{
+    right: 96%;
 }
 .quatation-right{
-    left: 14% !important;
+    left: 0% !important;
 }
 .quate-title{
     float: left;

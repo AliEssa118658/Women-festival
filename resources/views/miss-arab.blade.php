@@ -6,7 +6,7 @@
     <div class="container ">
         <div class="row logos-container">
             <div class="col-lg-6  my-3" ><h1 class="bigbig-font miss-text text-center mt-5">{{__('Miss Arab Social Media')}}</h1></div>
-            <div class="col-lg-6  mt-5"><img src="/images/svg/miss-arab.svg" class="w-50" alt="" ></div>
+            <div class="col-lg-6  mt-5"><img src="/images/svg/miss-arab.svg?" class="w-50" alt="" ></div>
         </div>
     </div>
 </section>

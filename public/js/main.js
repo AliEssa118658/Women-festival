@@ -50,7 +50,7 @@ elements.forEach(element => {
         var swiper2 = new Swiper('.swipper2', {
             direction: 'horizontal',
             slidesPerView:  1,
-            spaceBetween: 0,
+            spaceBetween: 2,
             initialSlide: 0,
             speed:1000,
             autoplay: {
@@ -60,16 +60,16 @@ elements.forEach(element => {
             // centeredSlides: true,
             grabCursor: true,
             breakpoints: {
-                320: {
+                280: {
                     slidesPerView: 1
                 },
-                640: {
+                560: {
                     slidesPerView: 2
                 },
-                960: {
+                840: {
                     slidesPerView: 3
                 },
-                1280: {
+                1120: {
                     slidesPerView: 4
                 },
 

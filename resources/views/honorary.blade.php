@@ -33,16 +33,16 @@
             </div>
         </div>
         <div class="mb-5 justify-content-center" >
-            <div class="container   ">
+            <div class="container swip   ">
                 <div class="swiper swipper2">
                     <ul class="swiper-wrapper">
                         @foreach ($honorarys as $honorary)
                             <li class="swiper-slide">
                                     <div class="card card-sec border-sh hover-card " style="border-radius: 18px">
-                                        <img src="{{ asset('/storage/screens/' . $honorary->image) }}" class="card-img-top card2" alt="" />
+                                        <img src="{{ asset('/storage/screens/' . $honorary->image) }}" class="card-img-top card2 hono" alt="" />
 
                                         <img src="{{ asset('/images/svg/'.$honorary->category.'.svg') }}" class="cat-logo" alt="" />
-                                        <div class="card-body miss">
+                                        <div class="card-body hono miss">
                                             <h1 class="med-font3 b-text text-center" id="title">{{__($honorary->name)}}</h1>
 
                                                 <span class="t-des b-text subtitle" id="">{{ __($honorary->country)}}</span><br>
@@ -87,7 +87,7 @@
                                     <div class="card card-sec border-sh hover-card " style="border-radius: 18px">
                                         <img src="{{ asset('/storage/screens/' . $ambassador->image) }}" class="card-img-top card2" alt="" style="border:4px solid #88438D;border-radius:4px" />
 
-                                        <img src="{{ asset('/images/svg/star.svg') }}" class="cat-logo" alt="" />
+                                        <img src="{{ asset('/images/svg/star.svg') }}" class="cat-logo amb" alt="" />
                                         <div class="card-body miss">
                                             <h1 class="med-font3 b-text text-center" id="title">{{__($ambassador->name)}}</h1>
 
