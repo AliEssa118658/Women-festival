@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4" >
-                    <img src="/images/png/quate1.svg" alt="" class="Al-Maktoom-img" style="width:100%;height:100%">
+                    <img src="/images/png/quate1.svg?" alt="" class="Al-Maktoom-img" style="width:100%;height:100%">
                  </div>
                 <div class="col-lg-1"></div>
                  <div class="col-lg-7 quate-text">
