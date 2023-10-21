@@ -17,7 +17,7 @@
                         <div class="card firsts">
                             <img src="{{ asset('/storage/screens/' . $first->image) }}" class="card-img-top card2 first" alt="" />
                             <div class="card-body text-center">
-                                <h5 class="med-font2 b-text text-center p-text"  id="title">{{__($first->name)}}</h5>
+                                <h5 class="med-font2 b-text text-center p-text" style="font-size:21px "  id="title">{{__($first->name)}}</h5>
                                 <span class="t-des p2-text subtitle text-center w-79" id="">{{ __($first->country)}}</span><br>
 
                             </div>
