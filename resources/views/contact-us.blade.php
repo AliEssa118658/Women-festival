@@ -37,19 +37,19 @@
                                     <input type="radio" name="subject" id="suggestions" value="{{ __('Suggestions') }}"
                                         required data-parsley-error-message=" required." />
                                     <label for="suggestions"
-                                        class="blue-text  font-xs">{{ __('Suggestions') }}</label>
+                                        class="blue-text  font-xs @if(app()->getLocale() === 'ar') mr-2 @endif">{{ __('Suggestions') }}</label>
                                 </div>
                                 <div class="col-4 d-flex align-items-center radio-subject">
                                     <input type="radio" name="subject" id="inquiries" value="{{ __('Question') }}"
                                         required data-parsley-error-message=" required." />
                                     <label for="inquiries"
-                                        class="blue-text  font-xs">{{ __('Question') }}</label>
+                                        class="blue-text  font-xs @if(app()->getLocale() === 'ar') mr-2 @endif">{{ __('Question') }}</label>
                                 </div>
                                 <div class="col-4 d-flex align-items-center radio-subject">
                                     <input type="radio" name="subject" id="appreciation" value="{{ __('Nominee yourself') }}"
                                         required data-parsley-error-message=" required." />
                                     <label for="appreciation"
-                                        class="blue-text  font-xs">{{ __('Nominee yourself') }}</label>
+                                        class="blue-text  font-xs @if(app()->getLocale() === 'ar') mr-2 @endif">{{ __('Nominee yourself') }}</label>
                                 </div>
                             </div>
                             <div class="row mb-3">
@@ -57,13 +57,13 @@
                                     <input type="radio" name="subject" id="appreciation" value="{{ __('Nominee some one else') }}"
                                         required data-parsley-error-message=" required." />
                                     <label for="appreciation"
-                                        class="blue-text  font-xs">{{ __('Nominee some one else') }}</label>
+                                        class="blue-text  font-xs @if(app()->getLocale() === 'ar') mr-2 @endif">{{ __('Nominee some one else') }}</label>
                                 </div>
                                 <div class="col-4 d-flex align-items-center radio-subject">
                                     <input type="radio" name="subject" id="appreciation" value="{{ __('Other') }}"
                                         required data-parsley-error-message=" required." />
                                     <label for="appreciation"
-                                        class="blue-text  font-xs">{{ __('Other') }}</label>
+                                        class="blue-text  font-xs @if(app()->getLocale() === 'ar') mr-2 @endif">{{ __('Other') }}</label>
                                 </div>
                             </div>
 

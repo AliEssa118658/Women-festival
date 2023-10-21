@@ -31,11 +31,10 @@
                 <div class="col-lg-4" >
                     <img src="/images/png/quate1.svg?" alt="" class="Al-Maktoom-img" style="width:100%;height:100%">
                  </div>
-                <div class="col-lg-1"></div>
                 <span class="quatation-right"></span>
-                <div class="col-lg-6 quate-text">
-                    <p class="mb-3"><span class="med-font4">{{__('Our mission')}}</span>{{__(' is to provide an environment that unleashes a woman’s potential – an environment that protects her dignity and femininity, helps her find the necessary balance in her life, and values her talents and abilities. If we succeed in providing this environment, I am confident that women will do wonders')}} </p>
-                    <p class="mb-2 blod quate-title">{{__('Mohammed bin Rashed Al-Maktoom')}}</p>
+                <div class="col-lg-7 quate-text">
+                    <p class="my-3"><span class="med-font4">{{__('Our mission')}}</span>{{__(' is to provide an environment that unleashes a woman’s potential – an environment that protects her dignity and femininity, helps her find the necessary balance in her life, and values her talents and abilities. If we succeed in providing this environment, I am confident that women will do wonders')}} </p>
+                    <p class="mb-3 blod quate-title">{{__('Mohammed bin Rashed Al-Maktoom')}}</p>
                 </div>
                 <span class="quatation-left"></span>
             </div>
