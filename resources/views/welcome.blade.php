@@ -83,21 +83,21 @@
                 <img src="/images/svg/miss-arab.svg?" alt="">
                 <div>
                 <h1 class=" text-center m-auto"  style="        padding: 77px 0px 35px 34px;">{{__('Miss Arab Social Media 2024')}}</h1>
-             <span>   <a class="" href="{{ route('news', ['news' => 3]) }}">{{__('Learn More')}}</a></span>
+             <span style='@if(app()->getLocale() === 'en') margin: 1.1rem 6rem 6rem -4.1rem; @endif'>   <a style="@if(app()->getLocale() === 'en') left: -3.3rem; @endif   " href="{{ route('news', ['news' => 3]) }}">{{__('Learn More')}}</a></span>
             </div>
             </div>
             <div class="event-square">
                 <img src="/images/png/daimond.jpeg?" alt="">
                 <div>
                 <h1 class=" text-center m-auto">{{__('Mother of the Emirates necklace')}}</h1>
-                <span style="    margin: -7.7rem 11rem 2rem 0rem;">   <a class="" href="{{ route('news', ['news' => 1]) }}">{{__('Learn More')}}</a></span>
+                <span style="    margin: -7.7rem 11rem 2rem 0rem; @if(app()->getLocale() === 'en') margin: -13.7rem 11rem 2rem -4.1rem; @endif ">   <a style="@if(app()->getLocale() === 'en') left: -3.3rem; @endif   " href="{{ route('news', ['news' => 1]) }}">{{__('Learn More')}}</a></span>
                 </div>
             </div>
             <div class="event-square">
                 <img src="/images/png/koakb.jpg?" alt="">
                 <div>
                 <h1 class=" text-center m-auto">{{__('Twelve Planets')}}</h1>
-                <span style="    margin: -7.7rem 11rem 2rem 0rem;">   <a class="" href="{{ route('news', ['news' => 2]) }}">{{__('Learn More')}}</a></span>
+                <span style="    margin: -7.7rem 11rem 2rem 0rem; @if(app()->getLocale() === 'en') margin: -7.7rem 11rem 2rem -4.1rem; @endif ">   <a style="@if(app()->getLocale() === 'en') left: -3.3rem; @endif   " href="{{ route('news', ['news' => 2]) }}">{{__('Learn More')}}</a></span>
                 </div>
             </div>
         </div>
