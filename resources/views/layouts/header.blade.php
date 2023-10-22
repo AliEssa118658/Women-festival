@@ -10,10 +10,10 @@
                         <span ><a class="w-text header-font-large ml-1 b-hover" href="">+ 971 50 000 00 00</a></span>
 
                 </div>
-                <div class="col-lg-2  col-md-5   d-none d-md-block  ltr" style="margin-top: 0.3rem ">
-                    <span><img src="{{asset('images/svg/w-email.svg')}}" alt="" style="width: 11.3%;margin-top:-0.35rem"></span><span ><a href="mailto:ali6721985@gmail.com?subject:Info" class="w-text b-hover header-font-large ml-1"> Info@email.com</a></span>
+                <div class="col-lg-3  col-md-5   d-none d-md-block  ltr" style="margin-top: 0.3rem ">
+                    <span><img src="{{asset('images/svg/w-email.svg')}}" alt="" style="width: 6.6%;margin-top:-0.35rem"></span><span ><a href="mailto:ali6721985@gmail.com?subject:Info" class="w-text b-hover header-font-large ml-1">  Info@arabwomenfestival.com</a></span>
                 </div>
-                <div class="col-lg-5  col-md-1  d-none d-sm-block "></div>
+                <div class="col-lg-4  col-md-1  d-none d-sm-block "></div>
 
                 <div class="col-lg-3  col-md-3 col-sm-12 ">
                     <ul class="social-header">
