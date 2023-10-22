@@ -63,9 +63,7 @@
                                         <div class="card-body miss">
                                             <h1 class="med-font3 b-text text-center" id="title">{{__($miss->name)}}</h1>
 
-                                                <span class="t-des b-text subtitle" id="">{{ __($miss->work)}}</span><br>
                                                 <span class="t-des b-text subtitle" id="">{{ __($miss->country)}}</span><br>
-                                                <span class="t-des b-text subtitle" id="">{{ __($miss->workplace)}}</span>
 
                                         </div>
                                     </div>

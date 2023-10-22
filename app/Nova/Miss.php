@@ -54,9 +54,7 @@ class Miss extends Resource
                 'youtube' => 'YouTube',
             ])->displayUsingLabels()->sortable()->rules('required'),
             Text::make('Name','name')->required(),
-            Text::make('Working','work')->required()->hideFromIndex(),
             Text::make('Country','country')->required()->hideFromIndex(),
-            Text::make('Work place','workplace')->required()->hideFromIndex(),
             Image::make('Picture', 'image')->creationRules('required')->disk('screens')->deletable(false),
         ];
     }
