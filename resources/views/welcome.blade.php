@@ -10,9 +10,9 @@
     <div class="container ">
         <div class="row" style="direction: rtl !important">
             <div class="col-md-6">
-                <img src="/images/svg/main-square1.svg" alt="" class="main-square one">
-                <img src="/images/svg/main-square3.svg?" alt="" class="main-square sec">
-                <img src="/images/svg/main-square2.svg" alt="" class="main-square third">
+                <img src="/images/svg/main-square1.svg??" alt="" class="main-square one">
+                <img src="/images/svg/main-square3.svg??" alt="" class="main-square sec">
+                <img src="/images/svg/main-square2.svg??" alt="" class="main-square third">
                 <img src="/images/png/main-square4.png" alt="" class="main-square fourth">
                 <img src="/images/png/main-square5.png" alt="" class="main-square sec">
 
