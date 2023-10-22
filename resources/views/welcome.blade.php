@@ -2,7 +2,7 @@
 @section('content')
 
 <section class="home-banner hero-banner"  style="height:80vh">
-    <img src="/images/png/square1.png" alt="" class="scale-respo" style="position: absolute;left:0;top:60%">
+    <img src="/images/png/square1.png" alt="" class="scale-respo" style="position: absolute;left:0;top:43%">
     <img src="/images/png/square2.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:20%">
     <img src="/images/png/square3.png" alt="" class="scale-respo" style="position: absolute;left:0;top:70rem">
     <img src="/images/png/square4.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:110rem">

@@ -4,10 +4,9 @@
 <section  class="mt-5 ">
     <span class="p-line-miss"></span>  <h1 class="bigbig-font p-text text-center">{{__('The Honorees')}}</h1><span class="p-line-miss nom-2" ></span>
 
-    <img src="/images/png/square1.png" alt="" class="scale-respo" style="position: absolute;left:0;top:40%">
-    <img src="/images/png/square2.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:40%">
-    <img src="/images/png/square3.png" alt="" class="scale-respo" style="position: absolute;left:0;top:80rem">
-    <img src="/images/png/square4.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:90rem">
+    <img src="/images/png/square1.png" alt="" class="scale-respo" style="position: absolute;right:0;top:60%;rotate:180deg">
+    <img src="/images/png/square3.png" alt="" class="scale-respo" style="position: absolute;left:0;top:80rem;width:15%">
+    <img src="/images/png/square4.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:110rem;width:15%">
 
     <div class="container my-5">
         <div class="row mt-5">
@@ -17,7 +16,11 @@
                 <div class="col-lg-7 mt-5">
 
 
-                <p class="med-font3 p-text">{{__('Announced the “Annual Festival of Arab Women 2024” in cooperation with Local and Arab institutions and bodies hold the annual Womens Festival Al Arabiya on March 9, 2024 in Dubai in the presence of high-ranking figures At the Arab level, a group of people of culture, science, and artistic stars And the media, to honor a group of Emirati women in sectors and fields Multiple women are selected according to criteria and nominations, in coordination with institutions Civil society. Because the issues of Emirati women do not differ far from the issues of their Arab sisters, it was also decided to honor a group of Arab women in the same sectors on the same day, according to transparent nominations and criteria. The festival also witnesses the honoring of a group of women from the Arab world, regardless of whether they are alive or have moved to the side of their Lord, who have had clear influential imprints in feminist work.')}}</p>
+                <p class="med-font3 p-text">{{__('Announced the Annual Festival of Arab Women 2024 in cooperation with Local and Arab institutions and bodies hold the annual Womens Festival Al Arabiya on March 9, 2024 in Dubai in the presence of high-ranking figures At the Arab level, a group of people of culture, science, and artistic stars And the media, to honor a group of Emirati women in sectors and fields Multiple women are selected according to criteria and nominations, in coordination with institutions Civil society.')}}</p>
+                <p class="med-font3 p-text">{{__('Because the issues of Emirati women do not differ far from the issues of their Arab sisters, it was also decided to honor a group of Arab women in the same sectors on the same day, according to transparent nominations and criteria.')}}</p>
+                <p class="med-font3 p-text">{{__('The festival also witnesses the honoring of a group of women from the Arab world, regardless of whether they are alive or have moved to the side of their Lord, who have had clear influential imprints in feminist work.')}}</p>
+
+
             </div>
         </div>
     </div>
