@@ -1187,3 +1187,10 @@ box-shadow:0px 0px 10px 2px rgb(210 210 210)
 .event-square a:hover{
     color: var(--purple-color);
 }
+
+.about-img{
+    width: 100%;
+    height: 25rem;
+    object-fit: cover;
+    border: 3px solid var(--purple-color);
+}

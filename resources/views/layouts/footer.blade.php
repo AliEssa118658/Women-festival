@@ -17,7 +17,7 @@
 
                     <h1 class="med-font2 bold p-text  mb-4 text-center" style="margin-top: 20%">{{__('Contact us')}}</h1>
 
-                    <div class="d-flex justify-content-center ml-5"><img src="images/svg/p-phone.svg" style="margin-left:-2.8rem" alt="" width="15"><a class=" header-font-large ml-1  text-center" href="">+ 971 50 000 00 00</a></div>
+                    <div class="d-flex justify-content-center ml-5"><img src="images/svg/p-phone.svg" style="margin-left:-2.8rem" alt="" width="15"><a class=" header-font-large ml-1  text-center" href="tel:+971529277779">+ 971 52 927 77 79</a></div>
                     <br>
                     <div class="d-flex justify-content-center"><img src="images/svg/p-email.svg" style="margin-left: 0.9rem" alt="" width="18"><a href="" class=" header-font-large ml-1 text-center"> Info@arabwomenfestival.com</a></div>
                     <br>

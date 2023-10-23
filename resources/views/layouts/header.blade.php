@@ -7,7 +7,7 @@
                 <div class="col-lg-2 col-md-3 col-sm-4  d-none d-md-block  ltr" style="margin-top: 0.3rem " >
 
                         <span><img src="{{asset('images/svg/w-phone.svg')}}" style="margin-top:-0.3rem" alt=""></span>
-                        <span ><a class="w-text header-font-large ml-1 b-hover" href="">+ 971 50 000 00 00</a></span>
+                        <span ><a class="w-text header-font-large ml-1 b-hover" href="tel:+971529277779">+ 971 52 927 77 79</a></span>
 
                 </div>
                 <div class="col-lg-3  col-md-5   d-none d-md-block  ltr" style="margin-top: 0.3rem ">

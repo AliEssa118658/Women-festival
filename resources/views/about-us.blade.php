@@ -8,23 +8,47 @@
     <img src="/images/svg/women.svg"  class="women-back">
     <div class="container py-5">
         <div class="row">
-            <div class="col-md-6 col-sm-12 box-vision">
-                <h1 class="p2-text bold my-5 big-font text-center">{{__('Our goals')}}</h1>
-                <ul style="line-height: 1.5">
-                    <li class="p-text header-font-large mb-3 ">{{__('Bright indicators for women in the Arab world are gradually appearing throughout April 2019 and the following day: sports, pillow medicine, aviation, arts, education, media, nation, judiciary/prosecution, law/business, equestrian. Space and humanitarian work, environment, creativity, creativity, drama, theatre, art, literature, communication, social good, energy, international relations, fine art, culture, scientific research and higher education, volunteer work, better humanity, and adding winter in the coming years.')}}</li>
-                    <li class="p-text header-font-large mb-3">{{__('Creating a platform for women in the Arab world to communicate together in exchanging texts, opinions and experiences')}}</li>
-                    <li class="p-text header-font-large mb-3">{{__('Drawing the attention of the Arab media to what Arab women are achieving today, and what is hindering them and restricting their abilities and skills')}}</li>
-                    <li class="p-text header-font-large mb-5    ">{{__('Allocating the “Miss Arab Social Media” award, in conjunction with the festival, to honor the star women of the Arab world, aiming to employ their teams on social media, to highlight the achievements of Arab women and the hidden capabilities of celebrities, so that this first award, “Miss Arab”, does not embody the external beauty of women. And do not shape it, so that it becomes its beauty and the richness of its mind and values.')}}</li>
-                </ul>
+            <div class="col-md-6 col-sm-12 ">
+                <h1 class="p-text med-font3 bold mb-2">{{__('هيئة الأمم المتحدة للمرأة')}}</h1>
+                <h1 class="p-text   med-font2 ">{{__('هيئة الأمم المتحدة للمرأة، هي منظمة الأمم المتحدة المعنية بالمساواة بين الجنسين وتمكين المرأة، وهي النصير العالمي الرئيسي لقضايا المرأة والفتاة، حيث نشأت بغرض التعجيل بإحراز تقدم فيما يتصل بتلبية احتياجاتهن على الصعيد العالمي')}}</h1>
+
+                <h1 class="p-text   med-font2 ">{{__(' تدعم هيئة الأمم المتحدة للمرأة الدول الأعضاء في الأمم المتحدة في وضع معايير عالمية لتحقيق المساواة بين الجنسين، وتعمل مع الحكومات والمجتمع المدني لتصميم القوانين والسياسات والبرامج والخدمات اللازمة لضمان تنفيذ تلك المعايير بشكل فعال لتعود بالفائدة بحق على النساء والفتيات')}}</h1>
+
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-5 col-sm-12 box-vision">
-                <h1 class="p2-text bold my-5 big-font text-center">{{__('Our vision')}}</h1>
-                <ul style="line-height: 1.5">
-                    <li class="p-text header-font-large mb-3 ">{{__('Arab women are the pillar of sustainable human development, and comprehensive development cannot be achieved in our Arab world without the contributions of Arab women and the activation of their role.')}}</li>
-                    <li class="p-text header-font-large mb-3">{{__('Arab women have not yet written their history, and in all eras and eras they have played a role in shaping history and the present')}}</li>
-                    <li class="p-text header-font-large mb-3">{{__('The Arab woman is the mother, wife, sister, companion and friend of the Arab man, and the relationship between them must be complementary.')}}</li>
-                </ul>
+            <div class="col-md-6 col-sm-12  px-0 ">
+         <img src="images/png/light1.jpg" alt="" class="about-img" >
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 col-sm-12 px-0">
+                <img src="images/png/light2.jpeg" class="about-img" alt="" >
+                   </div>
+            <div class="col-md-6 col-sm-12 ">
+                <h1 class="p-text med-font3 bold mt-4 mb-2">{{__('المرأة قوة تغيير في المجتمع')}}</h1>
+                <h1 class="p-text   med-font pr-2">{{__('لعبت المرأة دوراً محورياً في نهضة المجتمعات القديمة والحديثة، وأثبتت من خلال هذا الدور، قدرتها على التغيير الإيجابي في تلك المجتمعات، فحضورها اللافت في مختلف جوانب الحياة، وإصرارها على الوقوف بجانب الرجل ومساندتها له، دليل على كونها عنصراً أساسياً في إحداث عملية التغيير في المجتمع')}}</h1>
+
+                <h1 class="p-text   med-font pr-2">{{__('إن التغيير الايجابي الذي تسعى له المجتمعات مرهون بشكل كبير بواقع المرأة ومدى تمكنها من القيام بأدوارها في المجتمع، فهي تشغل دور أساسي في بناء أسرتها ورعايتها لهم، من خلال ما يقع على عاتقها كأم من مسؤولية تربية الأجيال، وما تتحمله كزوجة من أمر إدارة الأسرة، ومع تقدم المجتمعات وتطورها، نجد أن المرأة لم تلتزم فقط بواجبها تجاه أسرتها وتربية الأبناء بل أصبح لها دوراً اجتماعياً كبيراً في شتى المجالات، وبناءً على مؤهلاتها العلمية والثقافية والاجتماعية تنوعت أدوارها في المجتمع على مختلف الأصعدة.')}}</h1>
+                <p class="p-text bold med-font text-left">{{__('نسيمة عباس شاهين')}} <br>
+                    {{__('مملكة البحرين')}}
+                    </p>
+
+            </div>
+
+        </div>
+
+        <div class="row ">
+            <div class="col-md-6 col-sm-12 ">
+                <h1 class="p-text med-font3 bold mt-4 mb-2">{{__('المرأة  العربية تتكلم بصوتٍ عالٍ')}}</h1>
+                <h1 class="p-text   med-font2 ">{{__('تدعم "يونيسف" مبادرة المرأة العربية للتكلّم بصوتٍ عالٍ "النساء يتكلمنّ بصوتٍ عالٍ" من قبل لجنة الإنقاذ الدولية التي تقدم مجموعة من الخدمات التي تعزز مرونة النساء والفتيات المعرضات للخطر')}}</h1>
+
+                <h1 class="p-text   med-font ">{{__('تلتزم يونيسف بمنعِ جميع أشكال العنف القائم على أساس الجنس والتصدي لها كجزءٍ من إستجابتها، وتدعم مبادرة "المرأة العربيّة تتكلم" وهي من إعداد لجنة الإنقاذ الدولية في لبنان، التي تُقدم مجموعة من الخدمات التي تهدف الى تعزيز مرونة النساء والفتيات المعرضات للخطر ورفع قدراتهنّ .')}}</h1>
+                <h1 class="p-text   med-font ">{{__('من خلال توفير بيئة آمنة الى هؤلاء النساء، سيتمكنّ من الإحاطة بخمسة مواضيع رئيسية هي: العنف القائم على أساس نوع الجنس، إحترام الذات والثقة بالنفس، مهارات التفاوض، شبكات الدعم الإجتماعي، والقدرة على اتخاذ القرارات')}}</h1>
+                <h1 class="p-text   med-font ">{{__('مبادرة لجنة الإنقاذ الدولية: "المرأة العربية تتكلم" واحدة من سلسلة برامج الدعم النفسي والإجتماعي، صُممت لتمكين تسهيل إكتساب المرأة في هذه البيئة المهارات الحياتية عبر تبادل الخبرات والمعرفة مع أقرانهن. نجح البرنامج في مساعدة النساء على النظرِ الى أنفسهنّ بطريقة مختلفة عن نظرة المجتمع إليهن .')}}</h1>
+
+            </div>
+            <div class="col-md-6 col-sm-12  px-0">
+         <img src="images/png/light3.jpeg" class="about-img" alt="" >
             </div>
         </div>
 

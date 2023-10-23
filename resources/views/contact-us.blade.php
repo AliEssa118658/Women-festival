@@ -10,7 +10,7 @@
                         <h1 class="med-font4 p2-text pt-5 pb-4 p-line2 ">{{ __('Contact information') }}
                         </h1>
                         <br>
-                       <img src="/images/svg/p-phone.svg" alt="" class="pb-1"> <span class="med-font2 ml-3 contact-info-contact-us" style="direction: ltr !important">{{ __('+ 971 50 000 00 00') }}</span> <br><br>
+                       <img src="/images/svg/p-phone.svg" alt="" class="pb-1"> <span class="med-font2 ml-3 contact-info-contact-us" style="direction: ltr !important"><a href="tel:+971529277779">+ 971 52 927 77 79</a></span> <br><br>
                        <img src="/images/svg/p-email.svg" alt=""> <span class="med-font2 ml-2 contact-info-contact-us"> <a href="mailto:info@women.com" class="y-text">Info@arabwomenfestival.com</a></span><br><br>
                        <img src="/images/svg/p-location.svg" class="pb-1" alt=""> <span class="med-font2 ml-3 contact-info-contact-us">{{ __('Dubai, United Arab Emirates') }}</span> <br>
 
