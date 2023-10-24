@@ -42,6 +42,9 @@
     }
   }
 @media all and (max-width: 750px) {
+    .bigb-font{
+        font-size: 40px;
+    }
     .event-square
     {
         margin-top: 3rem;

@@ -2,7 +2,7 @@
 @section('content')
 
 <section class="home-banner hero-banner"  style="height:80vh">
-    <img src="/images/png/square1.png" alt="" class="scale-respo" style="position: absolute;left:0;top:43%">
+    <img src="/images/png/square1.png?" alt="" class="scale-respo" style="position: absolute;left:0;top:43%">
     <img src="/images/png/square2.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:20%">
     <img src="/images/png/square3.png" alt="" class="scale-respo" style="position: absolute;left:0;top:70rem">
     <img src="/images/png/square4.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:110rem">
@@ -11,10 +11,10 @@
         <div class="row" style="direction: rtl !important">
             <div class="col-md-6">
                 <img src="/images/svg/main-square1.svg??" alt="" class="main-square one">
-                <img src="/images/svg/main-square3.svg??" alt="" class="main-square sec">
+                <img src="/images/svg/main-square3.svg??" alt="" class="main-square sec" style="top:7% !important">
                 <img src="/images/svg/main-square2.svg??" alt="" class="main-square third">
-                <img src="/images/png/main-square4.png" alt="" class="main-square fourth">
-                <img src="/images/png/main-square5.png" alt="" class="main-square sec">
+                <img src="/images/png/main-square4.png??" alt="" class="main-square fourth">
+                <img src="/images/png/main-square5.png??" alt="" class="main-square sec " >
 
             </div>
             <div class="col-md-6  mt-5">
@@ -80,25 +80,25 @@
         </div>
         <div class=" row justify-content-center" style="margin: 8% 3% 12% auto" >
             <div class="event-square">
-                <img src="/images/svg/miss-arab.svg?" alt="">
+                <img src="/images/svg/miss-arab.svg?" alt="" style="width: 63%;">
                 <div>
-                <h1 class=" text-center m-auto"  style="        padding: 77px 0px 35px 34px;">{{__('Miss Arab Social Media 2024')}}</h1>
-             <span style='@if(app()->getLocale() === 'en') margin: 1.1rem 6rem 6rem -4.1rem; @endif'>   <a style="@if(app()->getLocale() === 'en') left: -3.3rem; @endif   " href="{{ route('news', ['news' => 3]) }}">{{__('Learn More')}}</a></span>
-            </div>
+                <h1 class=" text-center m-auto"  >{{__('Miss Arab Social Media 2024')}}</h1>
+                <a href="{{ route('news', ['news' => 3]) }}" class="learn-more-p" style="margin-top: -1rem">{{__('Learn More')}}</a>
+                        </div>
             </div>
             <div class="event-square">
                 <img src="/images/png/daimond.jpeg?" alt="">
                 <div>
-                <h1 class=" text-center m-auto">{{__('Mother of the Emirates necklace')}}</h1>
-                <span style="    margin: -7.7rem 11rem 2rem 0rem; @if(app()->getLocale() === 'en') margin: -13.7rem 11rem 2rem -4.1rem; @endif ">   <a style="@if(app()->getLocale() === 'en') left: -3.3rem; @endif   " href="{{ route('news', ['news' => 1]) }}">{{__('Learn More')}}</a></span>
-                </div>
+                <h1 class=" text-center m-auto"  style="margin-top: 40% !important">{{__('Mother of the Emirates necklace')}}</h1>
+                <a href="{{ route('news', ['news' => 1]) }}" class="learn-more-p">{{__('Learn More')}}</a>
+                            </div>
             </div>
             <div class="event-square">
                 <img src="/images/png/koakb.jpg?" alt="">
                 <div>
-                <h1 class=" text-center m-auto">{{__('Twelve Planets')}}</h1>
-                <span style="    margin: -7.7rem 11rem 2rem 0rem; @if(app()->getLocale() === 'en') margin: -7.7rem 11rem 2rem -4.1rem; @endif ">   <a style="@if(app()->getLocale() === 'en') left: -3.3rem; @endif   " href="{{ route('news', ['news' => 2]) }}">{{__('Learn More')}}</a></span>
-                </div>
+                <h1 class=" text-center m-auto" style="margin-top: 40% !important">{{__('Twelve Planets')}}</h1>
+                <a href="{{ route('news', ['news' =>2]) }}" class="learn-more-p">{{__('Learn More')}}</a>
+                            </div>
             </div>
         </div>
     </div>

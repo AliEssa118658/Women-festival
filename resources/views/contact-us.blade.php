@@ -18,10 +18,10 @@
                         <p>{{__('You can also find us on')}}</p>
                        </div>
                        <div class="d-flex  justify-content-around">
-                        <img src="/images/svg/p-facebook.svg" alt="">
-                        <img src="/images/svg/p-instagram.svg" alt="">
-                        <img src="/images/svg/p-linkedin.svg" alt="">
-                        <img src="/images/svg/p-x.svg" alt="">
+                        <img src="/images/svg/p-facebook.svg?" alt="">
+                        <img src="/images/svg/p-instagram.svg?" alt="">
+                        <img src="/images/svg/p-linkedin.svg?" alt="">
+                        <img src="/images/svg/p-x.svg?" alt="">
                        </div>
 
                     </div>

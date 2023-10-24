@@ -8,7 +8,7 @@
     <img src="/images/svg/women.svg"  class="women-back">
     <div class="container py-5">
         <div class="row my-5">
-            <div class="col-md-6 col-sm-12 px-0 pl-2">
+            <div class="col-md-6 col-sm-12 px-0 pl-2 pt-5">
                 <h1 class="p-text med-font3 bold mb-2">{{__('هيئة الأمم المتحدة للمرأة')}}</h1>
                 <h1 class="p-text   med-font2 ">{{__('هيئة الأمم المتحدة للمرأة، هي منظمة الأمم المتحدة المعنية بالمساواة بين الجنسين وتمكين المرأة، وهي النصير العالمي الرئيسي لقضايا المرأة والفتاة، حيث نشأت بغرض التعجيل بإحراز تقدم فيما يتصل بتلبية احتياجاتهن على الصعيد العالمي.')}}</h1>
 

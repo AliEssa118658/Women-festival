@@ -2,11 +2,11 @@
 @section('content')
 
 <section  class="mt-5 ">
-    <span class="p-line-miss"></span>  <h1 class="bigbig-font p-text text-center">{{__('The Honorees')}}</h1><span class="p-line-miss nom-2" ></span>
+    <span class="p-line-miss"></span>  <h1 class="bigbig-font bold p-text text-center">{{__('The Honorees')}}</h1><span class="p-line-miss nom-2" ></span>
 
-    <img src="/images/png/square1.png" alt="" class="scale-respo" style="position: absolute;right:0;top:60%;rotate:180deg">
-    <img src="/images/png/square3.png" alt="" class="scale-respo" style="position: absolute;left:0;top:80rem;width:15%">
-    <img src="/images/png/square4.png" alt="" class="scale-respo2" style="position: absolute;right:0;top:110rem;width:15%">
+    <img src="/images/png/square1.png?" alt="" class="scale-respo" style="position: absolute;right:0;top:60%;rotate:180deg">
+    <img src="/images/png/square3.png?" alt="" class="scale-respo" style="position: absolute;left:0;top:80rem;width:15%">
+    <img src="/images/png/square4.png?" alt="" class="scale-respo2" style="position: absolute;right:0;top:110rem;width:15%">
 
     <div class="container my-5">
         <div class="row mt-5">
@@ -32,7 +32,7 @@
     <div class="overflow-sec">
         <div class="row mb-5 pt-5 justify-content-center">
             <div class="col-md-7 text-center">
-                <h1 class="lg-t p-text text-center " >{{ __('The Honorees') }}</h1>
+                <h1 class="bigb-font bold p-text text-center " >{{ __('The Honorees') }}</h1>
             </div>
         </div>
         <div class="mb-5 justify-content-center" >
@@ -78,7 +78,7 @@
     <div class="overflow-sec">
         <div class="row mb-5 pt-5 justify-content-center">
             <div class="col-md-7 ">
-                <h1 class="lg-t p-text text-center" >{{ __('The Ambassadors') }}</h1>
+                <h1 class="bigb-font bold p-text text-center" >{{ __('The Ambassadors') }}</h1>
             </div>
         </div>
         <div class="mb-5 justify-content-center" >

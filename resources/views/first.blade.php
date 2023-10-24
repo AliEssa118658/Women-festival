@@ -2,7 +2,7 @@
 @section('content')
 
 <section style="background-color: #">
-    <span class="p-line-first"></span>  <h1 class="bigbig-font p-text text-center">{{__('Honored women from Early pioneers')}}</h1><span class="p-line-first nom-2" ></span>
+    <span class="p-line-first"></span>  <h1 class="bigb-font bold p-text text-center">{{__('Honored women from Early pioneers')}}</h1><span class="p-line-first nom-2" ></span>
 
     <div class="first-gen-container my-5 m-auto pl-5">
         <img src="{{ asset('/storage/screens/' . $first->image) }}" class="my-5" alt="" style="width:25%" />
