@@ -4,7 +4,7 @@
 <section style="background-color: #">
     <img src="/images/png/square1.png?" alt="" class="scale-respo4" style="position: absolute;left:0;top:20%">
     <img src="/images/png/square2.png" alt="" class="scale-respo3" style="position: absolute;right:0;top:40%">
-    <img src="/images/png/square3.png" alt="" class="scale-respo4" style="position: absolute;left:0;top:59rem">
+    <img src="/images/png/square3.png" alt="" class="scale-respo4" style="position: absolute;left:0;top:200%">
     <img src="/images/png/square4.png" alt="" class="scale-respo3" style="position: absolute;right:0;top:70rem">
 
     <div class="container my-5">
