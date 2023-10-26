@@ -3,7 +3,15 @@
 }
 
 @media all and (max-width: 1250px) {
+    .scale-respo3{
+        scale: 0.6;
+        right: -2.6rem !important;
+    }
 
+    .scale-respo4{
+        scale: 0.6;
+        left: -2.4rem !important;
+    }
     .quatation-left, .quatation-right{
         display: none;
     }
@@ -21,6 +29,7 @@
     }
   }
 @media all and (max-width: 995px) {
+
 
     .med-font2.bold.mb-4{
         margin-top: 8%;
@@ -50,6 +59,10 @@
         margin-top: 3rem;
         margin-bottom: 5rem;
         margin-left: 1rem ;
+    }
+    .med-font4{
+        font-size: 24px;
+
     }
     .scale-respo{
         scale: 0.8;
@@ -138,7 +151,10 @@
 
 
   @media all and (max-width: 450px) {
+    .med-font4{
+        font-size: 18px;
 
+    }
     .scale-respo {
         scale: 0.5;
         left: -2.9rem !important;

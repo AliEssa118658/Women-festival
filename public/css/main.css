@@ -38,7 +38,7 @@ font-size: var(--header-font-small);
     font-size: 24px;
 }
 .med-font4{
-    font-size: 32px;
+    font-size: 30px;
 }
 .big-font{
     font-size: 36px;
@@ -619,8 +619,11 @@ a{
     padding-inline: 1rem;
 }
 .news-title{
-    width: 50%;
-}
+
+        background: -webkit-linear-gradient(90deg, #4A3685 8%, #5A3A84 36%, #6D3D89 65%, #88438D 97%);;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
 .news-img{
     width: 100%;
     height: auto;

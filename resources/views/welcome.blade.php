@@ -73,7 +73,7 @@
 
 <section class=""  style="background-color: #FBFBFB">
     <div class="overflow-sec my-5">
-        <div class="row mb-5 pt-5 justify-content-center " >
+        <div class="row  justify-content-center " >
             <div class="col-md-7 text-center">
                 <h1 class="bigbig-font p-text text-center" >{{ __('Our Events') }}</h1>
             </div>
@@ -83,7 +83,7 @@
                 <img src="/images/svg/miss-arab.svg?" alt="" style="width: 63%;">
                 <div>
                 <h1 class=" text-center m-auto"  >{{__('Miss Arab Social Media 2024')}}</h1>
-                <a href="{{ route('news', ['news' => 3]) }}" class="learn-more-p" style="margin-top: -1rem">{{__('Learn More')}}</a>
+                <a href="{{ route('miss-arab')}}" class="learn-more-p" style="margin-top: -1rem">{{__('Learn More')}}</a>
                         </div>
             </div>
             <div class="event-square">
