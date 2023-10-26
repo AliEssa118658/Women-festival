@@ -11,7 +11,7 @@
 
         <div class="row mt-5">
            <div class="col-md-6 d-flex  mb-3">
-            <h1 class="bigb-font text-center p-text bold m-auto news-title">{{__($new->title)}}</h1>
+            <h1 class="bigb-font text-center p-text bold  news-title">{{__($new->title)}}</h1>
 
            </div>
            <div class="col-md-6">
