@@ -20,8 +20,8 @@
            </div>
         </div>
         <div class=" box-vision m-auto p-5 ">
-        <h2 class="med-font4 p-text  mb-2  text-center">{{__($new->subtitle)}}</h2>
-        <p class="med-font4 p-text  text-center">{{__($new->description)}}</p>
+            <p class="p-text  text-center" style="font-size: 1px">{{__($new->description)}}</p>
+        <h2 class="med-font3 p-text  mb-2  text-center" style="font-size: 23px">{{__($new->subtitle)}}</h2>
         </div>
 
     </div>
@@ -32,10 +32,10 @@
     <div class="overflow-sec my-5">
         <div class="row  justify-content-center " >
             <div class="col-md-7 text-center">
-                <h1 class="bigbig-font p-text text-center" >{{ __('Our Events') }}</h1>
+                <h1 class="bigb-font bold p-text text-center" >{{ __('Our Events') }}</h1>
             </div>
         </div>
-        <div class=" row justify-content-center" style="margin: 8% 3% 12% auto" >
+        <div class=" row justify-content-center" style="margin:3% 3% 12% auto" >
             <div class="event-square mb-3">
                 <img src="/images/svg/miss-arab.svg?" alt="" style="width: 63%;">
                 <div>

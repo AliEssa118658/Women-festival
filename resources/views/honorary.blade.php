@@ -46,10 +46,10 @@
 
                                         <img src="{{ asset('/images/svg/'.$honorary->category.'.svg') }}" class="cat-logo" alt="" />
                                         <div class="card-body hono miss">
-                                            <h1 class="med-font3 b-text text-center" id="title">{{__($honorary->name)}}</h1>
+                                            <h1 class="med-font3 p-text text-center" id="title">{{__($honorary->name)}}</h1>
 
-                                                <span class="t-des b-text subtitle" id="">{{ __($honorary->country)}}</span><br>
-                                                <span class="t-des b-text subtitle" id="">{{ __($honorary->category)}}{{__(' sector')}}</span>
+                                                <span class="t-des p-text subtitle" id="">{{ __($honorary->country)}}</span><br>
+                                                <span class="t-des p-text subtitle" id="">{{ __($honorary->category)}}{{__(' sector')}}</span>
 
                                         </div>
                                     </div>
@@ -67,9 +67,9 @@
 
 <section class="mt-5">
     <div class="container">
-        <p class="med-font3 b-text text-center mx-5">{{__('The organizing committee of the Annual Arab Women’s Festival 2024 announced the selection of 12 Arab female knights and ambassadors to lead the initiative')}} </p>
+        <p class="med-font3 p-text text-center mx-5">{{__('The organizing committee of the Annual Arab Women’s Festival 2024 announced the selection of 12 Arab female knights and ambassadors to lead the initiative')}} </p>
         <h1 class="big-font p-text text-center">{{__('“Our platforms... Empowering our sisters”')}}</h1>
-        <p class="med-font3 b-text text-center mx-5">{{__('Which aims to employ social media platforms to Promoting the empowerment of Arab women and making them aware of their rights and touching their wounds, “Female Empowerment Ambassadors” will be gradually announced and selected From various general specializations and orientations,Among the stars and celebrities')}}</p>
+        <p class="med-font3 p-text text-center mx-5">{{__('Which aims to employ social media platforms to Promoting the empowerment of Arab women and making them aware of their rights and touching their wounds, “Female Empowerment Ambassadors” will be gradually announced and selected From various general specializations and orientations,Among the stars and celebrities')}}</p>
     </div>
 </section>
 
@@ -92,10 +92,10 @@
 
                                         <img src="{{ asset('/images/svg/star.svg') }}" class="cat-logo amb" alt="" />
                                         <div class="card-body miss">
-                                            <h1 class="med-font3 b-text text-center" id="title">{{__($ambassador->name)}}</h1>
+                                            <h1 class="med-font3 p-text text-center" id="title">{{__($ambassador->name)}}</h1>
 
-                                                <span class="t-des b-text subtitle" id="">{{ __($ambassador->country)}}</span><br>
-                                                <span class="t-des b-text subtitle" id="">{{ __($ambassador->work)}}</span>
+                                                <span class="t-des p-text subtitle" id="">{{ __($ambassador->country)}}</span><br>
+                                                <span class="t-des p-text subtitle" id="">{{ __($ambassador->work)}}</span>
 
                                         </div>
                                     </div>

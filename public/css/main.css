@@ -433,7 +433,7 @@ a{
     font-size: 26px;
 }
 .quate-text p{
-    font-size: 20px;
+    font-size: 22px;
 }
 
 
@@ -679,7 +679,7 @@ a{
 {
     left: 47px !important;
 
-    bottom: 18.35em !important;
+    bottom: 19.35em !important;
     width: 47% !important;
 }
 #email-response-popup
@@ -996,12 +996,10 @@ a{
 .first-gen-container p{
     width: 95%;
     text-align: right !important;
-    margin-top: 1rem;
+    margin-top: 3rem;
 }
 .first-gen-container img{
-    float: right;
-    margin-right: 3rem;
-    margin-top: 12.7rem !important;
+
     border-radius: 15px;
     box-shadow: 2px 0px 5px var(--purple-color);
 }
@@ -1121,7 +1119,7 @@ a{
     background: url('../images/svg/women3.svg') no-repeat;
 }
 .w-80{
-    width: 72.1% !important
+    width: 71.1% !important
 }
 .box-vision
 {
